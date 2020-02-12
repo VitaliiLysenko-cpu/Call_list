@@ -1,10 +1,8 @@
 package com.example.calllist.activity;
 
 import android.os.Bundle;
-
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
-
 import com.example.calllist.R;
 
 public class InfoOnSubscriber extends AppCompatActivity {
